@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="http://www.tianrunlin.com" homePageName="回到主页"></script>
+<script type="text/javascript" src="http://www.qq.com/404/search_children.js" charset="utf-8" homePageUrl="http://iluohao.cn" homePageName="回到主页"></script>
 </body>
 </html>
